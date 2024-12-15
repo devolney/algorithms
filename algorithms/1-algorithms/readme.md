@@ -1,0 +1,11 @@
+# [BR] 1- Algoritmos
+
+No post do instagram [Algoritmos - Você precisa aprender](https://www.instagram.com/p/DDM5cuFuCYe/?img_index=1) explico porque é importante o estudo de algoritmos. 
+
+No documento [Google Interview Prep Guide](/algorithms/1-algorithms/[Google%20Interview%20Prep%20Guide]%20SWE%20-%20UGrad.pdf) é apresentado como um entrivistado deve se preparar para a entrevista e quais tópicos são cobrados. Você verá que conceitos matemáticos e algoritmos são uma parte considerável do processo seletivo.
+
+# [EN] 1- Algorithms
+
+In the instagram post [Algoritmos - Você precisa aprender](https://www.instagram.com/p/DDM5cuFuCYe/?img_index=1) I explain why the study of algorithms is important. 
+
+In the document [Google Interview Prep Guide](/algorithms/1-algorithms/[Google%20Interview%20Prep%20Guide]%20SWE%20-%20UGrad.pdf) it is presented how an interviewee should prepare for the interview and what topics are asked. You will see that mathematical concepts and algorithms are a considerable part of the selection process.
