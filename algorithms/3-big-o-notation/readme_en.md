@@ -2,6 +2,8 @@
 
 Big O Notation is a mathematical notation used to describe the performance or complexity of an algorithm. It provides a way to express how the runtime or space requirements of an algorithm grow relative to the input size. In this guide, we will explore Big O Notation in detail, its importance, and how to calculate it, with examples and visual illustrations.
 
+---
+
 ## 1. What is Big O Notation?
 
 Big O Notation is used to classify algorithms based on their growth rates. It focuses on the worst-case scenario, which helps developers understand the upper bound of an algorithm's performance.
@@ -13,6 +15,8 @@ Big O Notation is used to classify algorithms based on their growth rates. It fo
 - **Dominant term:** The term in the function that grows fastest and defines the complexity.
 
 > Example: If an algorithm takes $2n^2 + 3n + 1$ operations, Big O focuses only on $n^2$, as it dominates the growth.
+
+---
 
 ## 2. Why is Big O Notation Important?
 
@@ -28,6 +32,8 @@ It allows developers to compare different algorithms and choose the most efficie
 
 Identifying inefficiencies through Big O enables optimizations to improve performance.
 
+---
+
 ## 3. Common Big O Complexities
 
 ### 3.1. Constant Time - $O(1)$
@@ -39,6 +45,7 @@ func getFirstElement(arr []int) int {
     return arr[0] // Always 1 operation.
 }
 ```
+
 > Example: Accessing an element in an array.
 
 ### 3.2. Linear Time - $O(n)$
@@ -52,6 +59,7 @@ func printElements(arr []int) {
     }
 }
 ```
+
 > Example: Iterating through an array.
 
 ### 3.3. Quadratic Time - $O(n^2)$
@@ -69,6 +77,7 @@ func checkPairs(arr []int) {
     }
 }
 ```
+
 > Example: Nested loops for pair comparisons.
 
 ### 3.4. Logarithmic Time - $O(log n)$
@@ -91,6 +100,7 @@ func binarySearch(arr []int, target int) int {
     return -1
 }
 ```
+
 > Example: Binary search algorithm.
 
 ### 3.5. Exponential Time - $O(2^n)$
@@ -105,6 +115,7 @@ func fibonacci(n int) int {
     return fibonacci(n-1) + fibonacci(n-2)
 }
 ```
+
 > Example: Calculating Fibonacci numbers.
 
 ### 3.6. Grafical Analisys
@@ -112,6 +123,8 @@ func fibonacci(n int) int {
 The graph below shows the growth curves of all the complexities discussed above, illustrating their differences as the input size increases.
 
 ![cost function curves](graph.png)
+
+---
 
 ## 4. How to Calculate Big O Complexity
 
@@ -158,6 +171,8 @@ func example(arr []int) {
 
 - $O(n^2)$ (Quadratic).
 
+---
+
 ### 5. Key Takeaways
 
 1. Big O Notation evaluates how algorithms scale with input size.
@@ -165,9 +180,14 @@ func example(arr []int) {
 3. Use it to compare algorithms and optimize performance.
 4. Visualize growth curves to better understand scalability.
 
-### Conclusion
+---
+
+### 6. Conclusion
 
 Big O Notation is a fundamental concept for analyzing and improving algorithm performance. By understanding its principles and applying them to real-world scenarios, developers can make informed decisions to build scalable and efficient applications.
 
-### Instagram
+---
+
+### 7. Instagram
+
 In the Instagram post [Algoritmos - Big O Notation](https://www.instagram.com/p/DDw6DF1O9yP/?img_index=1) I explain what is Big O Notation, why it is important and how to calculate it.
