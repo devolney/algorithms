@@ -8,3 +8,6 @@ SHELL = $(if $(wildcard $(SHELL_PATH)),/bin/ash,/bin/bash)
 
 selection-sort:
 	@go run algorithms/4-selection-sort/main.go
+
+bubble-sort:
+	@go run algorithms/5-bubble-sort/main.go	
