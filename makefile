@@ -14,3 +14,6 @@ bubble-sort:
 
 insertion-sort:
 	@go run algorithms/6-insertion-sort/main.go		
+
+recursion:
+	@go run algorithms/7-recursion/main.go		
