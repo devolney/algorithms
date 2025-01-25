@@ -88,6 +88,14 @@ func fibonacciMemoization(n int) int {
 }
 ```
 
+### 4.4. Comparação do tempo de execução
+
+Execute o comando shell abaixo para ver quanto tempo é gasto para executar o algoritmo em cada cenário apresentado. Sinta-se a vontade para alterar a variável `n` no [código](main.go) para ver como o algoritmo atua.
+
+```sh
+make recursion
+```
+
 ---
 
 ## 5. Vantagens e Desvantagens da Recursividade
