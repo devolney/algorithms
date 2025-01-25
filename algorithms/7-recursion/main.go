@@ -62,7 +62,7 @@ func fibonacciRecursive(n int) int {
 	}
 
 	// iterative case
-	return fibonacciIterative(n-1) + fibonacciRecursive(n-2)
+	return fibonacciRecursive(n-1) + fibonacciRecursive(n-2)
 }
 
 var memo = make(map[int]int)
