@@ -42,12 +42,12 @@ func main() {
 }
 
 func fibonacciIterative(n int) int {
-	// base case
+	// F(0) = 0, F(1) = 1
 	if n <= 1 {
 		return n
 	}
 
-	// iterative case
+	// For n > 1: F(n) = F(n-1) + F(n-2)
 	a, b := 0, 1
 	for i := 2; i <= n; i++ {
 		a, b = b, a+b
