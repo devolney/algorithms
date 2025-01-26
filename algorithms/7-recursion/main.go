@@ -61,7 +61,7 @@ func fibonacciRecursive(n int) int {
 		return n
 	}
 
-	// iterative case
+	// recursive case
 	return fibonacciRecursive(n-1) + fibonacciRecursive(n-2)
 }
 
@@ -73,7 +73,7 @@ func fibonacciMemoization(n int) int {
 		return n
 	}
 
-	// iterative case
+	// recursive case
 	if _, exists := memo[n]; !exists {
 		memo[n] = fibonacciMemoization(n-1) + fibonacciMemoization(n-2)
 	}
