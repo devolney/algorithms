@@ -89,6 +89,8 @@ O Selection Sort é um algoritmo didático e fácil de entender. Embora não sej
 
 Se você gostou dessa explicação, continue estudando algoritmos e explore diferentes técnicas de ordenação para aprimorar seu conhecimento! 🚀
 
+---
+
 ## 8. Instagram
 
 Na postagem do Instagram [Algoritmos - Selection Sort](https://www.instagram.com/p/DDw6DF1O9yP/?img_index=1) explico o algoritmo Selection Sort passo a passo com um exemplo ilustrado.

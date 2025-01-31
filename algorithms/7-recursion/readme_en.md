@@ -126,6 +126,8 @@ make recursion
 
 Recursion is a powerful tool, but it should be used with caution. It is ideal for naturally recursive problems, such as trees and graphs, but it can be inefficient without optimization. The memoization technique helps improve performance, making recursion a practical approach for many cases.
 
+---
+
 ## 8. Instagram
 
 In the Instagram post [Algoritmos - O que é recursividade?](https://www.instagram.com/p/DFLuE0jylUW/?img_index=1) I explain what recursion is, what its advantages are and how to use it optimally.

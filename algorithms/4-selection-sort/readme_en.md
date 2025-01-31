@@ -90,6 +90,8 @@ Selection Sort is a didactic and easy-to-understand algorithm. Although it is no
 
 If you liked this explanation, keep studying algorithms and explore different sorting techniques to improve your knowledge! 🚀
 
+---
+
 ## 8. Instagram
 
 In the Instagram post [Algorithms - Selection Sort](https://www.instagram.com/p/DDw6DF1O9yP/?img_index=1) I explain the Selection Sort algorithm step by step with an illustrated example.

@@ -122,6 +122,8 @@ make recursion
 
 A recursividade é uma ferramenta poderosa, mas deve ser usada com cuidado. Ela é ideal para problemas naturalmente recursivos, como árvores e grafos, mas pode ser ineficiente sem otimização. A técnica de memoization ajuda a melhorar o desempenho, tornando a recursividade uma abordagem prática para muitos casos.
 
+---
+
 ## 8. Instagram
 
 Na postagem do Instagram [Algoritmos - O que é recursividade?](https://www.instagram.com/p/DFLuE0jylUW/?img_index=1) explico o que é resursividade quais são as suas vantagens e como utilizar de forma otimizada.
